@@ -2,7 +2,7 @@
 
 Here it will live the frontend code of the project Master Path
 
-Websiite: https://masterpath-frontend.vercel.app/
+Website: https://masterpath-seven.vercel.app/
 ## How to start
 
 1. Clone the repository.
